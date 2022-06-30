@@ -1,4 +1,4 @@
-#DIO-Flashlight
+# DIO-Flashlight
 
 App de lanterna produzido no módulo de Introdução ao React Native do Bootcamp <Decola Tech #3/>.
 
